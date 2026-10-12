@@ -21,13 +21,13 @@ Choose the artifact that best fits your project.
 **Android (AAR)**
 
 ```gradle
-implementation("io.inji:pixelpass-aar:1.0.0-alpha.1")
+implementation("io.inji:pixelpass-aar:1.0.0-rc1")
 ```
 
 **JVM (JAR)**
 
 ```gradle
-implementation("io.inji:pixelpass-jar:1.0.0-alpha.1")
+implementation("io.inji:pixelpass-jar:1.0.0-rc1")
 ```
 
 ### Maven
@@ -38,7 +38,7 @@ implementation("io.inji:pixelpass-jar:1.0.0-alpha.1")
 <dependency>
     <groupId>io.inji</groupId>
     <artifactId>pixelpass-aar</artifactId>
-    <version>1.0.0-alpha.1</version>
+    <version>1.0.0-rc1</version>
 </dependency>
 ```
 
@@ -48,7 +48,7 @@ implementation("io.inji:pixelpass-jar:1.0.0-alpha.1")
 <dependency>
     <groupId>io.inji</groupId>
     <artifactId>pixelpass-jar</artifactId>
-    <version>1.0.0-alpha.1</version>
+    <version>1.0.0-rc1</version>
 </dependency>
 ```
 
